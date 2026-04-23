@@ -110,7 +110,7 @@ footer {
     header, nav, footer {
         grid-column: 1 / -1;
     }
-    nav {
+    nav ul {
         display: flex;
         justify-content: space-around;
     }
